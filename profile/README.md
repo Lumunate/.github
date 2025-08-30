@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/WORD%20MARK-04.png" alt="Lumunate Logo" width="200" />
+  <img src="../assets/WORD%20MARK-04.png" alt="Lumunate Logo" width="200" />
 </p>
 
 <h1 align="center">🌟 Welcome to Lumunate 🌟</h1>
@@ -64,7 +64,7 @@
 
 ## ✨ Spotlight: Airbot
 <p align="center">
-  <img src="assets/airbot.svg" alt="Airbot" width="100" />
+  <img src="../assets/airbot.svg" alt="Airbot" width="100" />
 </p>
 
 **Airbot** is our AI-powered guest messaging & upsell platform for the vacation rental industry.
