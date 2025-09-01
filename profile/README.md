@@ -40,7 +40,7 @@
 
 ### 🤖 AI / ML / GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface" />  
 </p>
 <p>
   <b>Generative AI:</b> LangChain, LangGraph, OpenAI, RAG pipelines, Vector DBs
@@ -48,7 +48,7 @@
 
 ### 🔗 Web3
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,rust,,ipfs,chainlink,pancakeswap,ethereum,web3" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,ipfs,chainlink,pancakeswap,ethereum,web3" />
 </p>
 
 ### ☁️ Cloud & DevOps
