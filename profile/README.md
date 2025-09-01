@@ -63,7 +63,16 @@
 
 ### 🧰 Tools & Practices
 <p>
-  <img src="https://skillicons.dev/icons?i=git,clickup,jira,trello,serverless,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,figma,postman" />
+ <!-- ClickUp -->
+  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="40" alt="ClickUp" />
+  <!-- Jira -->
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
+  <!-- Trello -->
+  <img src="https://cdn.simpleicons.org/trello/0079BF" height="40" alt="Trello" />
+  <!-- Serverless -->
+  <img src="https://cdn.simpleicons.org/serverless/FD5750" height="40" alt="Serverless" />
+</p>
 </p>
 
 
