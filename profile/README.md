@@ -40,15 +40,30 @@
 
 ### 🤖 AI / ML / GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface" />  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="HuggingFace" />
+  <img src="https://cdn.simpleicons.org/stabilityai/0B57D0" height="40" alt="Stability AI" />
+  <img src="https://cdn.simpleicons.org/elevenlabs/111111" height="40" alt="ElevenLabs" />
+  <img src="https://cdn.simpleicons.org/pinecone/00A19D" height="40" alt="Pinecone" />
+  <img src="https://cdn.simpleicons.org/weaviate/00A3FF" height="40" alt="Weaviate" />
+  <img src="https://cdn.simpleicons.org/qdrant/FF4D4F" height="40" alt="Qdrant" />
 </p>
 <p>
-  <b>Generative AI:</b> LangChain, LangGraph, OpenAI, RAG pipelines, Vector DBs
+  <b>Generative AI:</b> LangChain, LangGraph, Llama, RAG pipelines
 </p>
 
 ### 🔗 Web3
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,rust,ipfs,chainlink,pancakeswap,ethereum,web3" />
+  <img src="https://cdn.simpleicons.org/solana/00FFA5" height="40" alt="Solana" />
+  <img src="https://cdn.simpleicons.org/polkadot/E6007A" height="40" alt="Polkadot" />
+  <img src="https://cdn.simpleicons.org/avalanche-avax/E84142" height="40" alt="Avalanche" />
+  <img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="40" alt="Bitcoin" />
+  <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="40" alt="Web3.js" />
+  <img src="https://cdn.simpleicons.org/ethers/2533E5" height="40" alt="Ethers.js" />
+  <img src="https://cdn.simpleicons.org/truffle/5E464D" height="40" alt="Truffle" />
+  <img src="https://cdn.simpleicons.org/hardhat/FFDB1C" height="40" alt="Hardhat" />
 </p>
 
 ### ☁️ Cloud & DevOps
