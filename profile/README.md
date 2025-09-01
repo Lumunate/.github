@@ -61,14 +61,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
 </p>
 
-### 🔌 APIs & Integrations
-<p>
-  <img src="https://skillicons.dev/icons?i=stripe,paypal,coinbase,twilio,salesforce,facebook,instagram,graphql,auth0" />
-</p>
-
 ### 🧰 Tools & Practices
 <p>
-  <img src="https://skillicons.dev/icons?i=git,jira,serverless,socketio,chartjs,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,clickup,jira,trello,serverless,figma,postman" />
 </p>
 
 
