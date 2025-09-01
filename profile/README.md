@@ -15,7 +15,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nuxtjs,vue,angular,redux,threejs,remix,tailwind,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,next,nuxtjs,vue,angular,redux,threejs,remix,tailwind,materialui,bootstrap" />
 </p>
 
 ### ⚙️ Backend
