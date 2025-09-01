@@ -14,7 +14,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,next,nuxtjs,vue,angular,redux,threejs,remix,tailwind,materialui,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -32,6 +32,19 @@
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
+### 📱 Mobile Apps
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin,dart" />
+</p>
+
+### 🤖 AI / ML / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
+</p>
+<p>
+  <b>Generative AI:</b> LangChain, LangGraph, OpenAI, RAG pipelines, Vector DBs
+</p>
+
 ### 🔗 Web3
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3" />
@@ -42,13 +55,21 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux" />
 </p>
 
-### 🤖 AI / ML / GenAI
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,redis" />
 </p>
+
+### 🔌 APIs & Integrations
 <p>
-  <b>Generative AI:</b> LangChain, LangGraph, OpenAI, RAG pipelines, Vector DBs
+  <img src="https://skillicons.dev/icons?i=stripe,paypal,coinbase,twilio,salesforce,facebook,instagram,graphql,auth0" />
 </p>
+
+### 🧰 Tools & Practices
+<p>
+  <img src="https://skillicons.dev/icons?i=git,jira,serverless,socketio,chartjs,figma,postman" />
+</p>
+
 
 ---
 
