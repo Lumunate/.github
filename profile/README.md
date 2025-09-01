@@ -14,7 +14,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,materialui,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -53,11 +53,12 @@
 ---
 
 ## 💼 What We Do
+- **UX/ UI Design** — Intuitive, conversion-focused design systems that scale 
 - **Web & Mobile Development** — High-performing apps with delightful UX
+- **AI/ ML** — From prediction models to Generative AI agents
+- **Web3** — Blockchain, dApps, smart contracts
 - **Systems Integration** — APIs, workflow automation, SaaS connectors
 - **Cloud Solutions** — Scalable infra on AWS, GCP, Azure
-- **AI/ML** — From prediction models to Generative AI agents
-- **Web3** — Blockchain, dApps, smart contracts
 - **Digital Marketing** — SEO, paid ads, social presence
 
 ---
@@ -101,7 +102,7 @@
 
 ## 📅 Let’s Connect
 We’d love to discuss your project ideas!  
-📧 **hello@lumunate.com**  
+📧 **saad@lumunate.com**  
 🌐 [lumunate.com](https://lumunate.com)  
 📅 [Book a Call with Us](https://calendly.com/saad-b-javaid22/consultation)
 
