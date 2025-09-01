@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="../assets/WORD%20MARK-04.png" alt="Lumunate Logo" width="200" />
 </p>
@@ -14,7 +15,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,nuxtjs,vue,angular,redux,threejs,remix,tailwind,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nuxtjs,vue,angular,redux,threejs,remix,tailwind,materialui,bootstrap" />
 </p>
 
 ### ⚙️ Backend
@@ -47,7 +48,7 @@
 
 ### 🔗 Web3
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,,ipfs,chainlink,pancakeswap,ethereum,web3" />
 </p>
 
 ### ☁️ Cloud & DevOps
